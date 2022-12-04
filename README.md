@@ -17,3 +17,10 @@ Por conta do tipo de serviço que desempenho alterando um software que lida com 
 - SINTEGRA
 - Regime de Lucro Real e Simples Nacional
 - Tributação e impostos no geral (ICMS, IPI, PIS, COFINS etc)
+
+Também possuo uma página no Medium onde você pode acompanhar um pouco do que venho estudando:
+
+![Minha Foto](/icon.jpeg)
+
+[Link Medium](https://medium.com/@ademarsj)
+
